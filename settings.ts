@@ -89,7 +89,7 @@ export const settings = {
   ],
 
   Sambutan: `
-    Selamat datang di Website SMAN 3 Kupang,
+    Selamat datang di SMAN 3 Kupang,
 
     Di SMAN 3 Kupang, kami berkomitmen untuk menciptakan lingkungan belajar yang inspiratif dan inklusif. Kami percaya bahwa pendidikan bukan hanya tentang mengajar mata pelajaran, tetapi juga tentang membentuk karakter, menggali potensi, dan menumbuhkan kreativitas. Di sini, kami menawarkan pengalaman pendidikan yang komprehensif dengan fasilitas modern dan kurikulum yang relevan untuk mempersiapkan setiap siswa menjadi individu yang siap menghadapi tantangan masa depan.
 
