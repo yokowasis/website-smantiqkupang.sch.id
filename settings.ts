@@ -1,7 +1,7 @@
 export const settings = {
   InfoSekolah: {
     Title: "Website SMA Negeri 3 Kupang",
-    Logo: "https://1.bp.blogspot.com/-Jl-IvuKLjWc/YGyaWiAkHFI/AAAAAAAACVo/brBouKlkxAE9m52u54EMTPayvnzZEeR4gCNcBGAsYHQ/s2048/Kementerian%2BAgama.png",
+    Logo: "https://s3.amazonaws.com/i.snag.gy/boviX8.jpg",
     Gambar:
       "https://1.bp.blogspot.com/-nbXsTP3itbw/YKHYwZ_dAiI/AAAAAAAAA_g/iMZS7qC9mLkCdJ2DxTu3QvdOJnT7TSm9ACLcBGAsYHQ/s960/man1-2.png",
     Gambar2:
