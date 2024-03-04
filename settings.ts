@@ -8,7 +8,7 @@ export const settings = {
       "https://4.bp.blogspot.com/-_-id53OE1C4/XIdRbNMLdbI/AAAAAAAAACs/YWCcH-X8VD89M5pPrMTO2qvbgYXj-UZ-QCLcBGAs/s1600/53742505_2293527304222890_7245120146245681152_n.jpg",
     Nama: "SMA Negeri 3 Kupang",
     SekilasInfo: `SMA Negeri 3 Kupang adalah sebuah sekolah menengah atas yang berada di bawah naungan Kementerian Agama. SMAN 3 Kupang memiliki status negeri dan menawarkan jenjang pendidikan Madrasah Aliyah (MA), serta memiliki fasilitas yang memadai, seperti ruang kelas, laboratorium, perpustakaan, masjid, dan lapangan olahraga. SMAN 3 Kupang memiliki visi untuk menjadi sekolah unggul yang berakhlak mulia, berwawasan global, dan berdaya saing tinggi.`,
-    Telepon: "(0374) 42434",
+    Telepon: "(0380) 822034",
     Email: "info@man1kotabima.sch.id",
     Alamat: "Jln. WJ. Lalamentik Oepoi-Kupang",
     JamKerja: "Senin s/d Jumat : 06.30 - 16.00",
