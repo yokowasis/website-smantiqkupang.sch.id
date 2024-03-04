@@ -109,9 +109,9 @@ export const settings = {
     About: "/pages/about",
     Info: {
       Visi_Misi: "/pages/visi-misi",
-      Etos_Kerja : "/pages/etos-kerja",
       Struktur_Organisasi: "/pages/struktur-organisasi",
       Jadwal_Pelajaran: "/pages/jadwal-pelajaran",
+      Etos_Kerja: "/pages/etos-kerja",
     },
     Contact: "/pages/contact",
   },
