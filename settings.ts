@@ -114,8 +114,9 @@ export const settings = {
       Etos_Kerja: "/pages/etos-kerja",
       Sejarah_SMAN3: "/pages/sejarah-sman3",
     },
-    Contact: "/pages/contact",
     Kesiswaan: "/pages/Kesiswaan",
+    Contact: "/pages/contact",
+    
   },
 
   QuickLinks: {
