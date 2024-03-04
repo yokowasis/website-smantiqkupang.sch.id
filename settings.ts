@@ -112,6 +112,7 @@ export const settings = {
       Struktur_Organisasi: "/pages/struktur-organisasi",
       Jadwal_Pelajaran: "/pages/jadwal-pelajaran",
       Etos_Kerja: "/pages/etos-kerja",
+      Sejarah_SMAN3: "/pages/sejarah-sman3",
     },
     Contact: "/pages/contact",
   },
