@@ -79,7 +79,7 @@ export const settings = {
       Instagram: "",
     },
     {
-      Nama: "Guru 4",
+      Nama: "Fransisca Nulik",
       Foto: "https://images.pexels.com/photos/8087857/pexels-photo-8087857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       Mapel: "Bahasa Inggris",
       Facebook: "",
