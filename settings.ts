@@ -117,8 +117,7 @@ export const settings = {
     Kesiswaan: {
       Tata_tertib: "/pages/Tata-Tertib-Siswa",
       Extrakurikuler: "/pages/Extrakurikuler",
-    },
-    
+    },    
     Contact: "/pages/contact",
   
     QuickLinks: {
