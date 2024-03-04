@@ -114,12 +114,14 @@ export const settings = {
       Etos_Kerja: "/pages/etos-kerja",
       Sejarah_SMAN3: "/pages/sejarah-sman3",
     },
-    Kesiswaan: "/pages/Kesiswaan",
-    Contact: "/pages/contact",
+    Kesiswaan: {
+      Tata_tertib: "/pages/Tata-Tertib-Siswa",
+      Extrakurikuler: "/pages/Extrakurikuler",
+    },
     
-  },
-
-  QuickLinks: {
+    Contact: "/pages/contact",
+  
+    QuickLinks: {
     Google: "https://google.com",
   },
 
