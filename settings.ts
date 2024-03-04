@@ -115,6 +115,7 @@ export const settings = {
       Sejarah_SMAN3: "/pages/sejarah-sman3",
     },
     Contact: "/pages/contact",
+    Kesiswaan: "/pages/Kesiswaan",
   },
 
   QuickLinks: {
