@@ -86,6 +86,14 @@ export const settings = {
       Twitter: "",
       Instagram: "",
     },
+    { 
+      Nama : "Rodiyanto Helianak",
+      Foto : "https://images.pexels.com/photos/8087857/pexels-photo-8087857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      Mapel : "Informatika",
+      Facebook: "",
+      Twitter: "",
+      Instagram: "",
+    },
   ],
 
   Sambutan: `
