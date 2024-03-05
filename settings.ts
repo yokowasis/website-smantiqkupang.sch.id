@@ -117,8 +117,8 @@ export const settings = {
     Contact: "/pages/contact",
 
     QuickLinks: {
-      Google: "https://google.com",
-    },
+    Google:"https:/goggle.com",
+    },  
   },
 
   PopularLinks: {
