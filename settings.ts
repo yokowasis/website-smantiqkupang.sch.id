@@ -106,7 +106,7 @@ export const settings = {
 
   Menu: {
     Home: "/",
-    Kesiswaan: "/pages/Kesiswaan",
+    About: "/pages/About",
     Info: {
       Visi_Misi: "/pages/visi-misi",
       Struktur_Organisasi: "/pages/struktur-organisasi",
