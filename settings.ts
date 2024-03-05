@@ -107,14 +107,21 @@ export const settings = {
   Menu: {
     Home: "/",
     Profil: {
-      Sejarah: "/pages/Sejarah",
-    },
-    Info: {
+      Sejarah: "/pages/sejarah",
       Visi_Misi: "/pages/visi-misi",
       Struktur_Organisasi: "/pages/struktur-organisasi",
+      Fasilitas: "/pages/faslilitas",
+      Logo_Sekolah: "/pages/logo-sekolah",
+      Hymne: "/pages/hymne",
+      Mars: "/pages/mars"
+
+    },
+    Info: {
+      Foto_Kegiatan: "/pages/foto-kegiatan",
+      Berita: "/pages/berita",
       Jadwal_Pelajaran: "/pages/jadwal-pelajaran",
-      Etos_Kerja: "/pages/etos-kerja",
-      Sejarah_SMAN3: "/pages/sejarah-sman3",
+      Tata_Tertib_Siswa: "/pages/tata-tertib-siswa",
+      Extrakurikuler: "/pages/extrakurikuler",      
     },
     Contact: "/pages/contact",
 
