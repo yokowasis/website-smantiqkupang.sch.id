@@ -120,7 +120,7 @@ export const settings = {
       Foto_Kegiatan: "/pages/foto-kegiatan",
       Berita: "/pages/berita",
       Jadwal_Pelajaran: "/pages/jadwal-pelajaran",
-      Tata_Tertib_Siswa: "/pages/tata-tertib-siswa",
+      Tata_TertibSiswa: "/pages/tata-tertibsiswa",
       Extrakurikuler: "/pages/extrakurikuler",      
     },
     Contact: "/pages/contact",
