@@ -86,10 +86,10 @@ export const settings = {
       Twitter: "",
       Instagram: "",
     },
-    { 
-      Nama : "Rodiyanto Helianak",
-      Foto : "https://images.pexels.com/photos/8087857/pexels-photo-8087857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      Mapel : "Informatika",
+    {
+      Nama: "Rodiyanto Helianak",
+      Foto: "https://images.pexels.com/photos/8087857/pexels-photo-8087857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      Mapel: "Informatika",
       Facebook: "",
       Twitter: "",
       Instagram: "",
@@ -115,9 +115,10 @@ export const settings = {
       Sejarah_SMAN3: "/pages/sejarah-sman3",
     },
     Contact: "/pages/contact",
-  
+
     QuickLinks: {
-    Google: "https://google.com",
+      Google: "https://google.com",
+    },
   },
 
   PopularLinks: {
