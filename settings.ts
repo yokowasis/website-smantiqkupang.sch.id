@@ -55,9 +55,9 @@ export const settings = {
 
   Guru: [
     {
-      Nama: "Guru 1",
+      Nama: "Ishak D.E. Balbesi",
       Foto: "https://images.pexels.com/photos/7092613/pexels-photo-7092613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      Mapel: "Bahasa Inggris",
+      Mapel: "Kepala Sekolah",
       Facebook: "",
       Twitter: "",
       Instagram: "",
