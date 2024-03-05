@@ -101,7 +101,7 @@ export const settings = {
 
     Di SMAN 3 Kupang, kami berkomitmen untuk menciptakan lingkungan belajar yang inspiratif dan inklusif. Kami percaya bahwa pendidikan bukan hanya tentang mengajar mata pelajaran, tetapi juga tentang membentuk karakter, menggali potensi, dan menumbuhkan kreativitas. Di sini, kami menawarkan pengalaman pendidikan yang komprehensif dengan fasilitas modern dan kurikulum yang relevan untuk mempersiapkan setiap siswa menjadi individu yang siap menghadapi tantangan masa depan.
 
-    Kami mengundang Anda untuk menjelajahi lebih dalam tentang SMAN 3 Kupang melalui situs web kami. Bersama-sama, kami berkomitmen untuk membentuk generasi yang berintegritas, berdaya saing, dan berkontribusi positif bagi masyarakat. Terima kasih atas kepercayaan Anda dalam memilih pendidikan di SMAN 3 Kupang.  
+    Kami mengundang Anda untuk menjelajahi lebih dalam tentang SMAN 3 Kupang melalui situs web kami. Bersama-sama, kami berkomitmen untuk membentuk generasi yang berintegritas, berdaya saing, dan berkontribusi positif bagi masyarakat. Terima kasih atas kepercayaan Anda dalam memilih pendidikan di SMAN 3 Kupang NTT.  
   `,
 
   Menu: {
