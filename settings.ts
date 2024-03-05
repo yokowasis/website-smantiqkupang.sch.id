@@ -106,7 +106,7 @@ export const settings = {
 
   Menu: {
     Home: "/",
-    About: "/pages/about",
+    Kesiswaan: "/pages/Kesiswaan",
     Info: {
       Visi_Misi: "/pages/visi-misi",
       Struktur_Organisasi: "/pages/struktur-organisasi",
@@ -114,10 +114,7 @@ export const settings = {
       Etos_Kerja: "/pages/etos-kerja",
       Sejarah_SMAN3: "/pages/sejarah-sman3",
     },
-    Kesiswaan: {
-      Tata_tertib: "/pages/Tata-Tertib-Siswa",
-      Extrakurikuler: "/pages/Extrakurikuler",
-    },    
+     
     Contact: "/pages/contact",
   
     QuickLinks: {
