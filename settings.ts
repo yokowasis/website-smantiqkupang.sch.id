@@ -166,22 +166,10 @@ export const settings = {
     image:
       "https://images.pexels.com/photos/1236421/pexels-photo-1236421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 
-    Visi: "Mengoptimalkan Pembelajaran Dan Iptek, Unggul Dalam Mutu, Dan Mewujudkan Profil Insan Pancasila Yang  Literat Dan Berwawasan Global",
+    Moto: "Today Must Be Better Than Yesterday",
 
     Misi: [
-      "Membangun iman dan taqwa peserta didik melalui berbagai kegiatan kerohanian dan atau terintegrasi dalam mata pelajaran terkait berdasarkan agama dan kepercayaan  masing-masing",
-      "Menumbuhkan budaya kerja yang muncul dari kesadaran diri sendiri untuk memuliakan Tuhan",
-      "Meningkatkan kualitas dokumen dan kinerja dokumen pembelajaran sesuai tuntutan standar proses",
-      "Meningkatkan kualitas SDM warga sekolah melalui pembelajaran, pendidikan dan pelatihan yang berkelanjutan sehingga terampil dalam menyelesaikan berbagai persoalan sesuai kaidah keilmuan",
-      "Mengembangkan penggunaan Teknologi, Informasi, dan Komunikasi (TIK) dalam pelaksanaan proses dan penilaian pembelajaran",
-      "Mewujudkan Warga sekolah yang berprestasi dalam bidang akademik maupun non akademik",
-      "Memajukan dan melestarikan kebudayaan lokal NTT demi memperkuat kebudayaan nasional dalam menghadapi tantangan global",
-      "Meningkatkan kesadaran warga sekolah akan gerakan literasi sekolah (GLS) melalui kegiatan dan  referensi atau konten bacaan yang berkualitas",
-      "Mengembangkan program pendidikan karakter yang terintegrasi dalam kegiatan akademik dan non akademik sekolah",
-      "Meningkatkan kemampuan berbahasa Inggris bagi seluruh warga sekolah",
-      "Mewujudkan manajemen sekolah ramah anak melalui optimalisasi program Usaha Kesehatan Sekolah (UKS), Sekolah Adiwiyata, dan Bimbingan Konseling (BK)",
-      "Melakukan Inventarisir semua aset sekolah secara rinci dan lengkap",
-      "Mewujudkan pengelolaan keuangan sekolah dengan prinsip efektif, efisien, transparan dan akuntabel",
+      "Mengoptimalkan Pembelajaran Dan Iptek, Unggul Dalam Mutu, Dan Mewujudkan Profil Insan Pancasila Yang  Literat Dan Berwawasan Global",
     ],
   },
 };
