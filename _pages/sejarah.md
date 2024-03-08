@@ -64,7 +64,7 @@ Alumni SMAN 3 Kupang juga banyak diperhitungkan di perguruan tinggi, dunia kerja
 
 Adapun fasilitas yang dimiliki SMAN 3 Kupang meliputi : Lab.Komputer (2 ruang), Lab. Multimedia, Lab.Fisika, Lab.Kimia, Lab. Biologi, Lab. Seni, Lab. Seni Budaya dan Film, Ruang BP/BK, Ruang Data,  Lapangan Basket, Lapangan Volly, Lapangan Futsal dan Ruang Tenun.
 
-Sampai menginjak umur 49 tahun SMAN 3 Kupang akan terus berbenah dan meningkatkan kualitasnya dengan motto : 
+Sampai menginjak umur 50 tahun SMAN 3 Kupang akan terus berbenah dan meningkatkan kualitasnya dengan motto : 
 
 # “ To Day Must Be Better Than Yesterday “
 

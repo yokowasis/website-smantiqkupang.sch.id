@@ -8,32 +8,26 @@ author:
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
+# Motto
+
+## TODAY MUST BE BETTER THAN YESTERDAY
 
 # Visi
 
-## Unggul, Berprestasi dan Berakhlak Mulia
-
-Visi di atas dapat dijabarkan menjadi beberapa indikator sebagai berikut :
-
-1. Unggul dalam kegiatan keagamaan dan budi pekerti.
-2. Unggul dalam perolehan nilai ujian akhir.
-3. Unggul dalam persaingan memasuki Perguruan Tinggi Negeri.
-4. Unggul dalam lomba Akademik, olahraga dan seni.
-5. Unggul dalam kedisplinan.
-6. Unggul dalam hidup bersih.
-7. Unggul dalam berorganisasi.
-8. Unggul dalam persaingan masuk dunia kerja.
+## MENGOPTIMALKAN PEMBELAJARAN DAN IPTEK, UNGGUL DALAM MUTU, DAN MEWUJUDKAN PROFIL INSAN PANCASILA YANG  LITERAT DAN BERWAWASAN GLOBAL
 
 # Misi
 
-1. Meningkatkan keimanan ketaqwaan terhadap Tuhan Yang Maha Esa.
-2. Menyiapkan SDM yang mantap, komoditas, kreatif serta berakhlakul karimah, mandiri dan mampu memenuhi tuntutan masyarakat.
-3. Meningkatkan perolehan nilai Ujian Nasioanal.
-4. Meningkatkan jumlah siswa yang diterima di Perguruan Tinggi Negeri.
-5. Menumbuhkan kebiasaan hidup sehat, bersih jasmani dan rohani, disiplin, sopan santun dalam hidup keluarga sekolah dan masyarakat .
-6. Meningkatkan semangat keunggulan dalam prestasi akademik dan lomba ilmiah, olahraga, bahasa, dan seni.
-7. Menyelenggarakan proses belajar dan mengajar yang dinamis, inovatif dengan budaya semangat belajar yang tinggi.
-8. Meningkatkan pengetahuan dan kemampuan profesionalisme pendidik seiring dengan perkembangan global.
-9. Memiliki keyakinan yang mantap dan teguh pendirian dalam menghadapi tantangan zaman.
-10. Meningkatkan kompetensi dan kinerja pendidik dan tenaga kependidikan.
-11. Menerapkan manajemen berbasis sekolah dan partisipatif dengan melibatkan semua warga sekolah, komite, dan stakeholders.
+1)	Membangun iman dan taqwa peserta didik melalui berbagai kegiatan kerohanian dan atau terintegrasi dalam mata pelajaran terkait berdasarkan agama dan kepercayaan  masing-masing. 
+2)	Menumbuhkan budaya kerja yang muncul dari kesadaran diri sendiri untuk memuliakan Tuhan.
+3)	Meningkatkan kualitas dokumen dan kinerja dokumen pembelajaran sesuai tuntutan standar proses.
+4)	Meningkatkan kualitas SDM warga sekolah melalui pembelajaran, pendidikan dan pelatihan yang berkelanjutan sehingga terampil dalam menyelesaikan berbagai persoalan sesuai kaidah keilmuan.
+5)	Mengembangkan penggunaan Teknologi, Informasi, dan Komunikasi (TIK) dalam pelaksanaan proses dan penilaian pembelajaran.
+6)	Mewujudkan Warga sekolah yang berprestasi dalam bidang akademik maupun non akademik.
+7)	Memajukan dan melestarikan kebudayaan lokal NTT demi memperkuat kebudayaan nasional dalam menghadapi tantangan global.
+8)	Meningkatkan kesadaran warga sekolah akan gerakan literasi sekolah (GLS) melalui kegiatan dan  referensi atau konten bacaan yang berkualitas.
+9)	Mengembangkan program pendidikan karakter yang terintegrasi dalam kegiatan akademik dan non akademik sekolah.
+10)	Meningkatkan kemampuan berbahasa Inggris bagi seluruh warga sekolah.
+11)	Mewujudkan manajemen sekolah ramah anak melalui optimalisasi program Usaha Kesehatan Sekolah (UKS), Sekolah Adiwiyata, dan Bimbingan Konseling (BK).
+12)	Melakukan Inventarisir semua aset sekolah secara rinci dan lengkap.
+13)	Mewujudkan pengelolaan keuangan sekolah dengan prinsip efektif, efisien, transparan dan akuntabel.
