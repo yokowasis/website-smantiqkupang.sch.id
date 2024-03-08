@@ -9,7 +9,7 @@ export const settings = {
     Nama: "SMA Negeri 3 Kupang",
     SekilasInfo: `SMA Negeri 3 Kupang adalah sebuah sekolah menengah atas yang berada di Kota Kupang yang Terakreditasi A, serta memiliki fasilitas yang memadai, seperti ruang kelas, laboratorium, perpustakaan, Aula, dan lapangan olahraga. SMAN 3 Kupang memiliki visi untuk menjadi sekolah unggul yang berakhlak mulia, berwawasan global, dan berdaya saing tinggi.`,
     Telepon: "(0380) 822034",
-    Email: "info@man1kotabima.sch.id",
+    Email: "info@smantiqkupang.sch.id",
     Alamat: "Jln. WJ. Lalamentik Oepoi-Kupang",
     JamKerja: "Senin s/d Jumat : 06.30 - 16.00",
     Facebook: "",
