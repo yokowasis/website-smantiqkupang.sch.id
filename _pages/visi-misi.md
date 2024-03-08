@@ -10,12 +10,12 @@ ogImage:
 ---
 # Motto
 
-## TODAY MUST BE BETTER THAN YESTERDAY
+## Today Must Be Better Than Yesterday
 
 
 # Visi
 
-## MENGOPTIMALKAN PEMBELAJARAN DAN IPTEK, UNGGUL DALAM MUTU, DAN MEWUJUDKAN PROFIL INSAN PANCASILA YANG  LITERAT DAN BERWAWASAN GLOBAL
+## Mengoptimalkan Pembelajaran Dan Iptek, Unggul Dalam Mutu, Dan Mewujudkan Profil Insan Pancasila Yang  Literat Dan Berwawasan Global
 
 
 
