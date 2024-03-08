@@ -48,7 +48,6 @@ Berdasarkan keputusan MK bahwa RSBI tidak sesuai dengan UUD 1945 RSBI maka mulai
 
 # Selama perjalannya SMPP 34 Kupang / SMA Negeri 3 Kupang dipimpin oleh :
 
-Selama perjalannya SMPP 34 Kupang / SMA Negeri 3 Kupang dipimpin oleh :
 1.	Dewa Made Asa			( Tahun 1975 – 1983 )
 2.	Drs. Bernadus Bako			( Tahun 1983 – 1986 )
 3.	Johanis Siga, B.A.			( Tahun 1986 – 1997 ) 
