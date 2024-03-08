@@ -108,7 +108,7 @@ const Footer = (props: { s: Settings }) => {
               © <a href="/">{props.s.InfoSekolah.Nama}</a>, All Right Reserved.
             </div>
             <div className="col-md-6 text-center text-md-end">
-              Themes Powered By <a href="https://bimasoft.web.id/">Bimasoft</a>{" "}
+              Themes Powered By <a href="https://bimasoft.web.id/">Roedhy</a>{" "}
               Designed By HTML Codex
             </div>
           </div>
