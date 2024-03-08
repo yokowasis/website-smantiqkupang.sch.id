@@ -10,7 +10,7 @@ ogImage:
 ---
 
 # Sejarah Singkat SMAN 3 Kupang
-Diawali dengan SK Mendikbud N0 OI 72/1971 tentang pendirian sekolah khusus untuk mempersiapkan siswa terampil di bidang pembangunan maka dicetuskankal Sekolah Menengah Persiapan Pembangunan. Dan selanjutnya diturunkan dalam SK Mendikbud No 0236/O/1973 didirikanlah Sekolah Menengah Persiapan Pembangunan ( SMPP ) di 34 kota yang  salah satunya  ada di kota Kupang, Sumba dan Ende, selajutnya sesuai nomenklature SMPP di kota Kupang adalah SMPP 34 Kupang 
+Diawali dengan SK Mendikbud N0 OI 72/1971 tentang pendirian sekolah khusus untuk mempersiapkan siswa terampil di bidang pembangunan maka dicetuskankal Sekolah Menengah Persiapan Pembangunan. Dan selanjutnya diturunkan dalam SK Mendikbud No 0236/O/1973 didirikanlah Sekolah Menengah Persiapan Pembangunan ( SMPP ) di 34 kota yang  salah satunya  ada di kota Kupang, selanjutnya sesuai nomenklature SMPP di kota Kupang adalah SMPP 34 Kupang 
 Berhubung belum tersedianya infrastuktur/gedung sekolah maka SMPP 34 Kupang kala itu masih menggunakan Gedung SMAN  Kupang / SMAN 173 ( Sumber Bp.Osias A. Hilly ) yang sekarang SMAN 1 Kupang . dalam kegiatan KBM Dengan kepala sekolah sementara adalah Bp.Ismandar yang juga kepala SMAN Kupang., sambil dibangun gedung sekolah sendiri. 
 Pembangunan Gedung sekolah sendiri pada masa itu langsung diawasi oleh Gubernur NTT masa itu yaitu Bp. Eltari.
 Setelah selesai dibangun selanjutnya pada tanggal 9 September 1974 seluruh siswa pindah ke SMPP 34 Kupang dengan memikul meja kursi dari SMAN Kupang. Dan selanjutnya seluruh kegiatan pembelajaran menempati gedung baru di daerah Oepoi ( A.S. Soenyoto). 
