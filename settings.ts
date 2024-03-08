@@ -168,9 +168,6 @@ export const settings = {
 
     Visi: "Mengoptimalkan Pembelajaran Dan Iptek, Unggul Dalam Mutu, Dan Mewujudkan Profil Insan Pancasila Yang  Literat Dan Berwawasan Global",
 
-    Misi: [
-      "Membangun iman dan taqwa peserta didik melalui berbagai kegiatan kerohanian dan atau terintegrasi dalam mata pelajaran terkait berdasarkan agama dan kepercayaan  masing-masing",
-      ],
   },
 };
 
