@@ -166,9 +166,9 @@ export const settings = {
     image:
       "https://images.pexels.com/photos/1236421/pexels-photo-1236421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 
-    Motto: "Mengoptimalkan Pembelajaran Dan Iptek, Unggul Dalam Mutu, Dan Mewujudkan Profil Insan Pancasila Yang  Literat Dan Berwawasan Global",
+    Visi: "Mengoptimalkan Pembelajaran Dan Iptek, Unggul Dalam Mutu, Dan Mewujudkan Profil Insan Pancasila Yang  Literat Dan Berwawasan Global",
 
-    Visi: [
+    Misi: [
       "Membangun iman dan taqwa peserta didik melalui berbagai kegiatan kerohanian dan atau terintegrasi dalam mata pelajaran terkait berdasarkan agama dan kepercayaan  masing-masing",
       ],
   },
