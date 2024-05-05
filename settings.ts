@@ -71,7 +71,7 @@ export const settings = {
       Instagram: "",
     },
     {
-      Nama: "Guru 3",
+      Nama: "Oktovianus Nomleni, S.Pd",
       Foto: "Oktovianus Nomleni, S.Pd",
       Mapel: "Wakasek Humas",
       Facebook: "",
