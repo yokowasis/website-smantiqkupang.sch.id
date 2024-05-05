@@ -21,17 +21,17 @@ export const settings = {
   Slider: [
     {
       image:
-        "https://ibb.co/Fqt20Kb",
+        "https://i.ibb.co/BKRbrtV/school-notebook-binders-notepad-159497.jpg",
       text: "Membangun Jiwa, Mengasah Potensi",
     },
     {
       image:
-        "https://ibb.co/fnYCNPB",
+        "https://i.ibb.co/hMk922N/Slider-2.webp",
       text: "Kreativitas, Integritas, Prestasi.",
     },
     {
       image:
-        "https://ibb.co/9wjhmh9",
+        "https://i.ibb.co/nwRGSkh/slider3.webp",
       text: "Kunci Masa Depan: Pendidikan Berkualitas.",
     },
   ],
@@ -56,7 +56,7 @@ export const settings = {
   Guru: [
     {
       Nama: "Ishak D.E. Balbesi, S.Pd",
-      Foto: "https://ibb.co/SPXXXT8",
+      Foto: "https://i.ibb.co/s2vvvSG/kepsek.jpg",
       Mapel: "Kepala Sekolah",
       Facebook: "",
       Twitter: "",
