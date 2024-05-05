@@ -21,17 +21,17 @@ export const settings = {
   Slider: [
     {
       image:
-        "https://images.pexels.com/photos/159497/school-notebook-binders-notepad-159497.jpeg?auto=compress&cs=tinysrgb&w=1920",
+        "https://ibb.co/Fqt20Kb",
       text: "Membangun Jiwa, Mengasah Potensi",
     },
     {
       image:
-        "https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://ibb.co/fnYCNPB",
       text: "Kreativitas, Integritas, Prestasi.",
     },
     {
       image:
-        "https://images.pexels.com/photos/207756/pexels-photo-207756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://ibb.co/9wjhmh9",
       text: "Kunci Masa Depan: Pendidikan Berkualitas.",
     },
   ],
@@ -56,40 +56,40 @@ export const settings = {
   Guru: [
     {
       Nama: "Ishak D.E. Balbesi, S.Pd",
-      Foto: "https://images.pexels.com/photos/7092613/pexels-photo-7092613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      Foto: "https://ibb.co/SPXXXT8",
       Mapel: "Kepala Sekolah",
       Facebook: "",
       Twitter: "",
       Instagram: "",
     },
     {
-      Nama: "Guru 2",
+      Nama: "Lasarus De Jesus, S.Pd",
       Foto: "https://images.pexels.com/photos/9159042/pexels-photo-9159042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      Mapel: "Bahasa Inggris",
+      Mapel: "Wakasek Kurikulum",
       Facebook: "",
       Twitter: "",
       Instagram: "",
     },
     {
       Nama: "Guru 3",
-      Foto: "https://images.pexels.com/photos/7750704/pexels-photo-7750704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      Mapel: "Bahasa Inggris",
+      Foto: "Oktovianus Nomleni, S.Pd",
+      Mapel: "Wakasek Humas",
       Facebook: "",
       Twitter: "",
       Instagram: "",
     },
     {
-      Nama: "Fransisca Nulik",
+      Nama: "Americo Thomas Da Cruz",
       Foto: "https://images.pexels.com/photos/8087857/pexels-photo-8087857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      Mapel: "Bahasa Inggris",
+      Mapel: "Kepala TU",
       Facebook: "",
       Twitter: "",
       Instagram: "",
     },
     {
-      Nama: "Rodiyanto Helianak",
+      Nama: "Rodiyanto Helianak, S.Kom",
       Foto: "https://images.pexels.com/photos/8087857/pexels-photo-8087857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      Mapel: "Informatika",
+      Mapel: "Wakasek Kesiswaan",
       Facebook: "",
       Twitter: "",
       Instagram: "",
@@ -131,9 +131,9 @@ export const settings = {
   },
 
   PopularLinks: {
-    RDM: "https://rdm.man1kotabima.sch.id",
-    "Pendaftaran PPDB": "https://aplikasi.man1kotabima.sch.id/ppdb-signup/",
-    "Login PPDB": "https://aplikasi.man1kotabima.sch.id",
+    Kemdikbud: "https://www.kemdikbud.go.id/",
+    "Pendaftaran PPDB": "https://ntt.siap-ppdb.com/",
+    "Login PPDB": "https://ntt.siap-ppdb.com/",
   },
 
   HomeBackground:
