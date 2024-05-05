@@ -1,6 +1,6 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Ujian Sekolah Berbasis CBT'
+excerpt: 'Pelaksanaan Ujian Sekolah Tahun Ajaran 2023/2024 SMA Negeri 3 Kupang tahun ini menggunakan CBT Online dan merupakan tahun ke-5 pelaksanaan ujian CBT berbasis online. Ujian dilaksanakan secara serentak sebanyak 430 siswa menggunakan 1 server utama.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:

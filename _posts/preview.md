@@ -1,6 +1,6 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Kegiatan Projek Tema 2 Suara Demokrasi Kelas X'
+excerpt: 'Pelaksanaan minggu projeck P5 bagi kelas X tema yang ke-2 yaitu Suara demokrasi akan dilaksanakan mulai senin 6 mei 2024 samapai dengan rabu 8 mei 2024'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
