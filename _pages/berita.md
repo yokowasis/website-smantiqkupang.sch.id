@@ -11,4 +11,4 @@ ogImage:
 
 # Pengumuman Kelulusan SMA Negeri 3 Kupang. TP. 2023/2024
 
-Keputusan Kepala SMA Negeri 3 Kupang No. 816/sman.3/604/V/2024 Tanggal 3 Mei 2024 tentang penetapan kelulusan peserta didik Tahun Pelajaran 2023/2024 silahkan di download melalui link <a href="ttps://drive.google.com/file/d/10geBWtzgwSga7BRblszjihpuG4v3tVtn/view?usp=sharing">Download Pengumuman</a>
+Keputusan Kepala SMA Negeri 3 Kupang No. 816/sman.3/604/V/2024 Tanggal 3 Mei 2024 tentang penetapan kelulusan peserta didik Tahun Pelajaran 2023/2024 silahkan di download melalui link <a href="https://drive.google.com/file/d/10geBWtzgwSga7BRblszjihpuG4v3tVtn/view?usp=sharing">Download Pengumuman</a>
