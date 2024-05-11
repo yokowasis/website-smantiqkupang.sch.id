@@ -11,4 +11,4 @@ ogImage:
 
 # Upacara HARDIKNAS 2 Mei 2024
 
-![hardiknas2mei](/img/hardiknas2mei.jpg)
+![hardiknas2mei2024](/img/hardiknas2mei2024.jpg)
