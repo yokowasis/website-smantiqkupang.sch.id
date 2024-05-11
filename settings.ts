@@ -111,6 +111,7 @@ export const settings = {
       Visi_Misi: "/pages/visi-misi",
       Struktur_Organisasi: "/pages/struktur-organisasi",
       Fasilitas: "/pages/faslilitas",
+      Data_Guru: "/pages/data-guru",
       Logo_Sekolah: "/pages/logo-sekolah",
       Hymne: "/pages/hymne",
       Mars: "/pages/mars"
