@@ -9,6 +9,6 @@ ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
 
-# Pengumuman Kelulusan SMA Negeri 3 Kupang. TP. 2023/2024
+# Data PTK SMA Negeri 3 Kupang. TP. 2023/2024
 
-Keputusan Kepala SMA Negeri 3 Kupang No. 816/SMAN.3/604/V/2024 Tanggal 3 Mei 2024 tentang penetapan kelulusan peserta didik Tahun Pelajaran 2023/2024 silahkan di download melalui link [SK PENGUMUMAN KELULUSAN](https://drive.google.com/file/d/10geBWtzgwSga7BRblszjihpuG4v3tVtn/view?usp=sharing)
+<img src="/img/Guru1.jpg" />
