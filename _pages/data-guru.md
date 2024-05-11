@@ -11,4 +11,4 @@ ogImage:
 
 # Data PTK SMA Negeri 3 Kupang. TP. 2023/2024
 
-![gurusmantiq](/img/gurusmantiq.jgp)
+![banner](/img/banner.jgp)
