@@ -7,7 +7,7 @@ Graduation day atau hari kelulusan menjadi momen yang sangat berarti bagi para s
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2024-05-12T05:35:07.322Z'
 author:
-  name: Tim Neutkens
+  name: Roedhy Keren
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
