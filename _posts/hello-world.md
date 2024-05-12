@@ -30,10 +30,7 @@ Kegiatan Graduation dan pelepasan peserta didik Kelas XII bukan sekedar prosesi 
 
 Acara ini dimulai dengan Sambutan hangat dari Kepala Sekolah SMA Negeri 3 Kupang, Bapak Ishak D.E Balbesi S.Pd Beliau menyampaikan ucapan selamat kepada para siswa yang telah menyelesaikan pendidikan mereka di SMA Negeri 3 Kupang. Bapak Ishak D.E Balbesi S.Pd juga memberikan motivasi dan harapan agar para siswa dapat mengukir prestasi di masa yang akan datang.
 
-Selain itu, ada beberapa acara menarik yang dilakukan pada hari perayaan kelulusan ini, seperti pemberian piagam penghargaan bagi siswa yang meraih prestasi akademik dan non akademik selama menempuh pendidikan di SMA Negeri 3 Kupang, serta penyerahan 
-Gayung bersambut SMA Negeri 3 Kupang kepada SMAN 2 Liae Sabu Raijua dalam wujud nyata SMANTIQ PEDULI dan   sekaligus mengurangi angka corat coret di sekolah terutama SMA Negeri 3 Kupang.
-Pada Jumat, 10 Mei 2024 program ini resmi di jalankan dan sudah di 
-serahkan secara sah oleh Bpk. Kepala SMA Negeri 3 Kupang
+Selain itu, ada beberapa acara menarik yang dilakukan pada hari perayaan kelulusan ini, seperti pemberian piagam penghargaan bagi siswa yang meraih prestasi akademik dan non akademik selama menempuh pendidikan di SMA Negeri 3 Kupang, serta penyerahan seragam layak pakai siswa-siswi SMA Negeri 3 Kupang kepada SMAN 2 Liae Sabu Raijua dalam wujud nyata SMANTIQ PEDULI dan sekaligus mengurangi angka corat coret di sekolah terutama SMA Negeri 3 Kupang.
 
 Tidak ketinggalan, momen yang paling ditunggu-tunggu adalah pemberian piagam dan cinderamata kepada para siswa. Setiap siswa mendapatkan ijazah dan medali yang menandakan bahwa mereka telah resmi menyelesaikan pendidikan di SMA Negeri 3 Kupang. Tak hanya itu, juga dimeriahkan dengan pemutaran video kenangan dan foto siswa-siswi selama menempuh pendidikan di SMA Negeri 3 Kupang.
 
