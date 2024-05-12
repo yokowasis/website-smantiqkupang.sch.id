@@ -23,9 +23,10 @@ SMA Negeri 3 (SMANTIQ) Kupang menggelar kegiatan Graduation 2024 Syukuran Penama
 Acara kelulusan ini diadakan pada Rabu, 8 Mei 2024, bertempat di  Beer and Barrel kitchen n'lounge Di sini, para siswa mendapatkan penghargaan atas kerja keras mereka selama 3 tahun menempuh pendidikan di Sekolah Menengah Atas Negeri 3 Kupang.
 Mereka juga mendapat kesempatan untuk mengenang momen-momen indah yang mereka alami selama menempuh pendidikan di SMA Negeri 3 Kupang.
 
-Kegiatan Graduation dan pelepasan peserta didik Kelas XII bukan sekedar prosesi melepas peserta didik Kelas XII yang telah menyelesaikan masa pendidikannya 3 tahun di SMA Negeri 3 Kupang dari pihak sekolah kepada Orangtua/Wali peserta didik saja, ![graduation](/img/graduation.jpg) tetapi juga sebagai upaya sekolah dalam mengarahkan peserta didik Kelas XII untuk selalu bersyukur atas berbagai limpahan rezeki dan nikmat karunia dari Tuhan Yang Maha Esa dengan melaksanakan kegiatan Graduation dengan arif dan bijaksana.
+Kegiatan Graduation dan pelepasan peserta didik Kelas XII bukan sekedar prosesi melepas peserta didik Kelas XII yang telah menyelesaikan masa pendidikannya 3 tahun di SMA Negeri 3 Kupang dari pihak sekolah kepada Orangtua/Wali peserta didik saja, tetapi juga sebagai upaya sekolah dalam mengarahkan peserta didik Kelas XII untuk selalu bersyukur atas berbagai limpahan rezeki dan nikmat karunia dari Tuhan Yang Maha Esa dengan melaksanakan kegiatan Graduation dengan arif dan bijaksana.
 
 Acara ini dimulai dengan Sambutan hangat dari Kepala Sekolah SMA Negeri 3 Kupang, Bapak Ishak D.E Balbesi S.Pd Beliau menyampaikan ucapan selamat kepada para siswa yang telah menyelesaikan pendidikan mereka di SMA Negeri 3 Kupang. Bapak Ishak D.E Balbesi S.Pd juga memberikan motivasi dan harapan agar para siswa dapat mengukir prestasi di masa yang akan datang.
+![graduation](/img/graduation.jpg)
 
 Selain itu, ada beberapa acara menarik yang dilakukan pada hari perayaan kelulusan ini, seperti pemberian piagam penghargaan bagi siswa yang meraih nilai tertinggi Ujian Sekolah, serta penyerahan seragam sekolah layak pakai dari siswa-siswi kepada SMAN 2 Liae Sabu Raijua dalam wujud nyata SMANTIQ PEDULI dan   sekaligus mengurangi angka corat coret di sekolah terutama SMA Negeri 3 Kupang.
 
