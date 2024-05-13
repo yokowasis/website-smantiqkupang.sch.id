@@ -133,7 +133,7 @@ export default function Index({ allPosts, s }: Props) {
                   <div className="position-relative mt-auto">
                     <img className="img-fluid" src={post.coverImage} alt="" />
                     <div className="courses-overlay">
-                      <a className="btn btn-outline-primary border-2" href="">
+                      <a className="btn btn-outline-primary border-2" href={`/posts/${post.slug}`}>
                         Read More
                       </a>
                     </div>
