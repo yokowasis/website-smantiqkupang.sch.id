@@ -3,9 +3,9 @@ export const settings = {
     Title: "Website SMA Negeri 3 Kupang",
     Logo: "/img/logo-sma-3-png.png",
     Gambar:
-      "https://i.ibb.co/Yh5Y7HM/960-720.png",
+      "/img/Foto-sekolab-A.png",
     Gambar2:
-      "https://i.ibb.co/khS0gQm/713-426.png",
+      "/img/Foto-sekolab-B.png",
     Nama: "SMA Negeri 3 Kupang",
     SekilasInfo: `SMA Negeri 3 Kupang adalah sebuah sekolah menengah atas yang berada di Kota Kupang yang Terakreditasi A, serta memiliki fasilitas yang memadai, seperti ruang kelas, laboratorium, perpustakaan, Aula, dan lapangan olahraga. SMAN 3 Kupang memiliki visi untuk menjadi sekolah unggul yang berakhlak mulia, berwawasan global, dan berdaya saing tinggi.`,
     Telepon: "(0380) 822034",
