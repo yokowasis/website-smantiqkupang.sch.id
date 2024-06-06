@@ -21,17 +21,17 @@ export const settings = {
   Slider: [
     {
       image:
-        "https://i.ibb.co/BKRbrtV/school-notebook-binders-notepad-159497.jpg",
+        "/img/slide1.png",
       text: "Membangun Jiwa, Mengasah Potensi",
     },
     {
       image:
-        "https://i.ibb.co/hMk922N/Slider-2.webp",
+        "/img/slide2.png",
       text: "Kreativitas, Integritas, Prestasi.",
     },
     {
       image:
-        "https://i.ibb.co/nwRGSkh/slider3.webp",
+        "/img/slide33.png",
       text: "Kunci Masa Depan: Pendidikan Berkualitas.",
     },
   ],
