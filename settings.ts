@@ -21,7 +21,7 @@ export const settings = {
   Slider: [
     {
       image:
-        "/img/slide1.jpg",
+        "/img/slide33.jpg",
       text: "Membangun Jiwa, Mengasah Potensi",
     },
     {
@@ -31,7 +31,7 @@ export const settings = {
     },
     {
       image:
-        "/img/slide33.jpg",
+        "/img/slide1.jpg",
       text: "Kunci Masa Depan: Pendidikan Berkualitas.",
     },
   ],
