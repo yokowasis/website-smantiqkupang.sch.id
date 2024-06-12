@@ -8,10 +8,11 @@ author:
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
-# Graduation SMANTIQ TP. 2023/2024
+# PENGUMUMAN PPDB SMA NEGERI 3 KUPANG
 
 PENGUMUMAN PPDB SMA NEGERI 3 KUPANG TP. 2024/2025
-![ppdb](/img/Pengumuman PPDB SMANTIQ 2024.jpg)
+
+![ppdb] (/img/ppdb.jpg)
 
 Untuk Juknis dapat di Download di Link 
 [JUKNIS PPDB 2024](https://drive.google.com/file/d/1HZj7wwisfOajrYK_RXb50mrfhqAK4VnG/view?usp=sharing)
