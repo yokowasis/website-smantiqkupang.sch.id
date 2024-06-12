@@ -1,9 +1,9 @@
 ---
 title: "INFO TERBARU"
 coverImage: "/assets/blog/preview/cover.jpg"
-date: "2024-05-06T05:35:07.322Z"
+date: "2024-06-12T05:35:07.322Z"
 author:
-  name: Admin
+  name: Roedhy
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"

@@ -2,16 +2,16 @@
 title: "PPDB"
 date: "2023-01-01T00:00:00.000Z"
 author:
-  name: Admin
+  name: Roedhy
   picture: "/assets/blog/authors/joe.jpeg"
 ---
 
-## Penerimaan Peserta Didik Baru 2023/2024
+## Penerimaan Peserta Didik Baru 2024/2025
 
-1. Pendaftaran dapat diakses melalui Link : [PENDAFTARAN PPDB](https://aplikasi.man1kotabima.sch.id/ppdb/daftar)
-2. Pengisian Biodata (Setelah Pendaftaran) : [LOGIN PENGISIAN BIODATA](https://aplikasi.man1kotabima.sch.id/)
+1. Pendaftaran dapat diakses melalui Link : [PENDAFTARAN PPDB](https://ntt.siap-ppdb.com)
+
 
 ## Contact Person :
 
-1. +62823-4956-1226
-2. +62852-3995-9695
+1. IG smantig_id
+
