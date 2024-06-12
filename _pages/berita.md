@@ -12,7 +12,7 @@ ogImage:
 
 PENGUMUMAN PPDB SMA NEGERI 3 KUPANG TP. 2024/2025
 
-![ppdbk](/img/ppdbk.jpg)
+![ppdbkb](/img/ppdbkb.jpg)
 
 Untuk Juknis dapat di Download di Link 
 [JUKNIS PPDB 2024](https://drive.google.com/file/d/1HZj7wwisfOajrYK_RXb50mrfhqAK4VnG/view?usp=sharing)
